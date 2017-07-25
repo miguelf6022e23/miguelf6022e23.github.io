@@ -1,0 +1,28 @@
+#name{
+	color:#ffffff;
+	background-color: #4aaaa5;
+	position: absolute;
+	left: 0px;
+	width: 100px;
+}
+
+#bannerLinks{
+	position: absolute;
+	right: 0px;
+	color: #777777;
+}
+
+#line1{
+	position: relative;
+	top: 20px;
+}
+
+header{
+	width: 100%;
+}
+
+h2{
+	top: 20px;
+	position: relative;
+	color: #4aaaa5;
+}
